@@ -1,5 +1,5 @@
 # git-intro
 tester
-- italics
--- bold 
+* italics 
+** bold 
 test failed 
