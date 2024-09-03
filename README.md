@@ -1,5 +1,5 @@
 # git-intro
 tester
-* italics 
-** bold 
-test failed 
+test failed again
+*test3* 
+**bold 3** 
